@@ -1,0 +1,12 @@
+# Local tooling and operating-system files
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+coverage/
+dist/
+
+# Python's local server cache
+__pycache__/
+*.py[cod]
